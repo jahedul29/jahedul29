@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Docker, Aws, Linux**
 
-- 👨‍💻 All of my projects are available at [jahedulhoque.com](jahedulhoque.com)
+- 👨‍💻 All of my projects are available at [jahedulhoque.com](https://jahedulhoque.com)
 
 - 💬 Ask me about **react, next, express, mongodb, postgresql, tailwind, andtd**
 
-- 📫 How to reach me **jahedulhoque.com**
+- 📫 How to reach me **[jahedulhoque.com](https://jahedulhoque.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
